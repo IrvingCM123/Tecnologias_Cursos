@@ -8,5 +8,6 @@ dataframe3 = pd.DataFrame({'Bob': ['I liked it.', 'It was awful.'],
               'Sue': ['Pretty good.', 'Bland.']},
              index=['Product A', 'Product B'])
 
-print(dataframe)
-print(dataframe2)
+print(dataframe, '\n')
+print(dataframe2, '\n')
+print(dataframe3)
