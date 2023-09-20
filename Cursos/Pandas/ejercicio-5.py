@@ -1,3 +1,4 @@
+import pandas as pd
 # Your code goes here
 animals.to_csv('cows_and_goats.csv')
 
